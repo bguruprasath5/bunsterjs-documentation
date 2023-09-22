@@ -6,7 +6,7 @@ hero:
   name: "BunsterJs"
   text: "Simple and Straight Forward API Framework for Bun"
   image:
-    src: "/public/hero.svg"
+    src: "/hero.svg"
     alt: BunsterJs
   actions:
     - theme: brand

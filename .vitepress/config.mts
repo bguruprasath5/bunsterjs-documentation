@@ -13,7 +13,7 @@ export default defineConfig({
       { text: "Docs", link: "/quick-start" },
     ],
     logo: {
-      src: "public/hero.svg",
+      src: "/hero.svg",
     },
     sidebar: [
       {
